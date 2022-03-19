@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on my personal projects and in some open things
 - 🌱 I’m currently learning Python ♥
 - 👯 I’m looking to collaborate on in libraries PHP
-- 🤔 I’m looking for help with Vue.js
 - 💬 Ask me about PHP
 
 ### Languages and Tools:
