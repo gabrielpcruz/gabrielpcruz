@@ -41,8 +41,3 @@
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/docker/docker.png" />
-
-
-<br />
-<br />
----
