@@ -49,6 +49,3 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpcruz&layout=compact)](https://github.com/gabrielpcruz/github-readme-stats)
-
-![Gabriel Cruz github stats](https://github-readme-stats.vercel.app/api?username=gabrielpcruz&show_icons=true)
-
